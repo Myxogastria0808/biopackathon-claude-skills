@@ -1,0 +1,46 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="-9yU7pO3Z9PQvIjg-ku_">
+    <mxGraphModel dx="1668" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nOiVwb4N6AeuKw1DRca8-3" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="50" y="60" as="sourcePoint" />
+            <mxPoint x="200" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nOiVwb4N6AeuKw1DRca8-4" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" value="" vertex="1">
+          <mxGeometry height="70" width="70" x="220" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="nOiVwb4N6AeuKw1DRca8-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Claude&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="230" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="nOiVwb4N6AeuKw1DRca8-8" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" target="nOiVwb4N6AeuKw1DRca8-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="55" y="84.6" as="sourcePoint" />
+            <mxPoint x="135" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nOiVwb4N6AeuKw1DRca8-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;/skill-name&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="160" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="nOiVwb4N6AeuKw1DRca8-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Claudeの自動読み込みの禁止&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="270" x="100" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="nOiVwb4N6AeuKw1DRca8-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;true&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="80" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="nOiVwb4N6AeuKw1DRca8-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;false&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="90" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KE3vKX2PQUJ2iw7KP9bx-1" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" value="" vertex="1">
+          <mxGeometry height="70" width="70" x="-30" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="KE3vKX2PQUJ2iw7KP9bx-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Claude&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-20" y="105" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

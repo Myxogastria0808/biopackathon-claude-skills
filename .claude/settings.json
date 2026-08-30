@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(echo:*)",
+      "Bash(mkdir:*)",
+      "Bash(tee:*)",
+      "Edit(.tmp/**)",
+      "Bash(typst --version)",
+      "Bash(python3 *)",
+      "Bash(./comp.sh main *)",
+      "Bash(./watch.sh main *)"
+    ]
+  }
+}
+

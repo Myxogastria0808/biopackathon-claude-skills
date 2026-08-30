@@ -1,0 +1,23 @@
+[project]
+name = "biopackathon-claude-skills"
+version = "0.0.0"
+description = "A example of claude skills for biopackathon."
+readme = "README.md"
+authors = [{ name = "Myxogastria0808", email = "r.rstudio.c@gmail.com" }]
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+biopackathon-claude-skills = "biopackathon_claude_skills:main"
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "sphinx>=9.1.0",
+    "sphinx-autobuild>=2025.8.25",
+    "sphinx-rtd-theme>=3.1.0",
+]
+
